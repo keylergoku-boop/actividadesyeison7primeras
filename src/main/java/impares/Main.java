@@ -6,7 +6,7 @@ import javax.swing.*;
 
 public class Main {
     static void main() {
-        int numero, op;
+        int numero;
 
         numero = Integer.parseInt(JOptionPane.showInputDialog("INGRESE NUMERO"));
 
